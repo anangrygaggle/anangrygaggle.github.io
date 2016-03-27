@@ -1,0 +1,83 @@
+body{
+    background-image: url(yungjames.jpg);
+    background-repeat: repeat;
+}
+
+header{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: 15px;
+    border: groove 15px lightblue;
+    width: 1000px;
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 30px;
+    height: 100px;
+    font-size: 36pt;
+    font-family: "comic sans ms"
+}
+
+div.memes {
+    margin-left:auto;
+    margin-right:auto;
+    height: 1000px;
+    width: 1000px;
+    margin-top: 20px;
+    border: double 15px black;
+    background-color: white;
+    text-align: center;
+    color:#FFF;
+    padding:25px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+}
+
+img.tiller {
+    width: 250px;
+    height: 250px;
+    padding-left: 375px;
+    padding-right: 425px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.james {
+    width: 250px;
+    height: 250px;
+    padding-left: 375px;
+    padding-right: 425px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.bill {
+    width: 250px;
+    height: 250px;
+    padding-left: 375px;
+    padding-right: 425px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+
+header.h {
+    padding-bottom: 30px;
+    height: 200px;
+}
+
+
+
+
